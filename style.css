@@ -32,6 +32,7 @@ header h1 {
 }
 
 header a {
+    background-color: #A1C7E0;
     margin: 15px;
     padding:5px;
     font-weight: bold;
