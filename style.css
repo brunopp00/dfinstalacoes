@@ -36,7 +36,7 @@ header a {
     margin: 2px;
     padding:5px;
     font-weight: bold;
-    font-size: 1.3em;
+    font-size: 1em;
     text-decoration: none;
     color: var(--cor05);
     font-family: var(--fonte-padrao);
