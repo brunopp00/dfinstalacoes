@@ -76,6 +76,7 @@ main p > strong {
     background-color: var(--cor01);
 }
 
-img {
+main img {
+    display: block;
     margin: auto;
 }
